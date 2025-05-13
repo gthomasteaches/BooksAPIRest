@@ -73,7 +73,7 @@ GOOS=linux GOARCH=amd64 go build -o app
 
 Incluye una colección de Postman para probar todos los endpoints de la API. Puedes importarla directamente desde el archivo:
 
-* [`simple_go_api_postman_collection.json`](./simple_go_api_postman_collection.json)
+* [`postman_collection.json`](./postman_collection.json)
 
 ---
 
